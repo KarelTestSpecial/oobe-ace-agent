@@ -123,7 +123,7 @@ export class OobeProtocolService {
         pricing,
         protocols: ['synapse-sap-v1', 'x402-v2'],
         agentId: 'aios-sentinel-01',
-        agentUri: 'https://github.com/0xk2/oobe-ace-agent',
+        agentUri: 'https://github.com/KarelTestSpecial/oobe-ace-agent',
         x402Endpoint: 'https://api.oobeprotocol.ai/x402/v2/aios-sentinel'
       });
 

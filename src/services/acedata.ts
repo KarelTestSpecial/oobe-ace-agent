@@ -247,7 +247,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to ${opportunity.organization}.
 
@@ -258,7 +258,7 @@ Karel Decherf`;
       `1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty.`,
       `2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime.`,
       `3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!`,
-      `4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent`
+      `4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent`
     ];
 
     return {
