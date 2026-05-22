@@ -1,0 +1,33 @@
+{
+  "name": "oobe-ace-agent",
+  "version": "1.0.0",
+  "description": "Autonomous Solana AI Agent for the OOBE x Ace Data Cloud Bounty",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "solana",
+    "ai",
+    "agent",
+    "oobe",
+    "sap",
+    "acedata"
+  ],
+  "author": "Karel Decherf",
+  "license": "MIT",
+  "dependencies": {
+    "@oobe-protocol-labs/synapse-sap-sdk": "0.17.0",
+    "@oobe-protocol-labs/synapse-client-sdk": "2.0.6",
+    "@solana/web3.js": "1.98.4",
+    "axios": "1.6.8",
+    "dotenv": "16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.7",
+    "tsx": "4.7.2",
+    "typescript": "5.4.5"
+  }
+}
