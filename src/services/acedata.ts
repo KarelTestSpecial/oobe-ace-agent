@@ -25,44 +25,44 @@ export class AceDataCloudService {
   }
 
   /**
-   * Evaluates an opportunity using LLM (DeepSeek-R1 or Claude 3.5 Sonnet)
+   * Evaluates an opportunity using a multi-tiered LLM fallback pipeline
    */
   async analyzeOpportunity(opportunity: Web3Opportunity): Promise<AuditReport> {
     console.log(`[AceDataCloud] --- Auditing Opportunity: "${opportunity.title}" ---`);
     
     if (this.isEmulatedMode()) {
       console.log('[AceDataCloud] No active token found in .env. Running premium local LLM emulation...');
-      return this.getEmulatedAuditReport(opportunity);
+      return this.getEmulatedAuditReport(opportunity, false);
     }
 
+    const systemPrompt = `You are an elite Web3 Security Auditor and Copywriter. Audit this Web3 freelance opportunity/bounty against common red flags (e.g. ghost bounties, low-reputation sponsors, vague specs). Provide a detailed JSON response matching this schema:
+    {
+      "isTrap": boolean,
+      "trapDetails": "explanation if isTrap is true, else null",
+      "auditScore": number, // 0-100 reputational safety score
+      "analysis": "detailed reputational evaluation",
+      "proposedPitch": "a highly professional, premium Proof of Work outreach proposal tailored for the applicant",
+      "twitterThread": ["tweet 1 content", "tweet 2 content"]
+    }
+    CRITICAL: Do NOT wrap the JSON in markdown blocks like \`\`\`json. Return only the raw JSON string.`;
+
+    const userPrompt = `Opportunity Data:
+    Title: ${opportunity.title}
+    Organization: ${opportunity.organization}
+    Description: ${opportunity.description}
+    Reward: ${opportunity.reward || 'N/A'}
+    URL: ${opportunity.url}`;
+
+    // Tier 1: Primary Reasoning Model (DeepSeek-R1)
     try {
+      console.log(`[AceDataCloud] Querying DeepSeek-R1 (Tier 1, timeout 35s)...`);
       const response = await axios.post(
         `${this.baseUrl}/v1/chat/completions`,
         {
-          model: 'deepseek-r1', // Or 'claude-3.5-sonnet' depending on preference
+          model: 'deepseek-r1',
           messages: [
-            {
-              role: 'system',
-              content: `You are an elite Web3 Security Auditor and Copywriter. Audit this Web3 freelance opportunity/bounty against common red flags (e.g. ghost bounties, low-reputation sponsors, vague specs). Provide a detailed JSON response matching this schema:
-              {
-                "isTrap": boolean,
-                "trapDetails": "explanation if isTrap is true, else null",
-                "auditScore": number, // 0-100 reputational safety score
-                "analysis": "detailed reputational evaluation",
-                "proposedPitch": "a highly professional, premium Proof of Work outreach proposal tailored for the applicant",
-                "twitterThread": ["tweet 1 content", "tweet 2 content"]
-              }
-              CRITICAL: Do NOT wrap the JSON in markdown blocks like \`\`\`json. Return only the raw JSON string.`
-            },
-            {
-              role: 'user',
-              content: `Opportunity Data:
-              Title: ${opportunity.title}
-              Organization: ${opportunity.organization}
-              Description: ${opportunity.description}
-              Reward: ${opportunity.reward || 'N/A'}
-              URL: ${opportunity.url}`
-            }
+            { role: 'system', content: systemPrompt },
+            { role: 'user', content: userPrompt }
           ],
           temperature: 0.2
         },
@@ -71,20 +71,51 @@ export class AceDataCloudService {
             'Authorization': `Bearer ${this.apiToken}`,
             'Content-Type': 'application/json'
           },
-          timeout: 15000
+          timeout: 35000
         }
       );
 
       const responseText = response.data.choices?.[0]?.message?.content || '';
-      // Parse safety
       const cleanJson = responseText.replace(/```json|```/g, '').trim();
       const parsed = JSON.parse(cleanJson) as AuditReport;
-      console.log(`[AceDataCloud] Safety Score: ${parsed.auditScore}/100. Trap Status: ${parsed.isTrap ? 'RED' : 'GREEN'}`);
+      console.log(`[AceDataCloud] DeepSeek-R1 Audit Complete. Safety Score: ${parsed.auditScore}/100. Trap Status: ${parsed.isTrap ? 'RED' : 'GREEN'}`);
       return parsed;
 
-    } catch (error: any) {
-      console.warn(`[AceDataCloud] LLM API Call failed: ${error.message}. Falling back to emulation.`);
-      return this.getEmulatedAuditReport(opportunity);
+    } catch (tier1Error: any) {
+      console.warn(`[AceDataCloud] DeepSeek-R1 API Call failed or timed out: ${tier1Error.message}. Trying Tier 2 fallback model (gpt-4o-mini)...`);
+
+      // Tier 2: Secondary Fast Model (gpt-4o-mini)
+      try {
+        console.log(`[AceDataCloud] Querying gpt-4o-mini (Tier 2, timeout 15s)...`);
+        const response = await axios.post(
+          `${this.baseUrl}/v1/chat/completions`,
+          {
+            model: 'gpt-4o-mini',
+            messages: [
+              { role: 'system', content: systemPrompt },
+              { role: 'user', content: userPrompt }
+            ],
+            temperature: 0.2
+          },
+          {
+            headers: {
+              'Authorization': `Bearer ${this.apiToken}`,
+              'Content-Type': 'application/json'
+            },
+            timeout: 15000
+          }
+        );
+
+        const responseText = response.data.choices?.[0]?.message?.content || '';
+        const cleanJson = responseText.replace(/```json|```/g, '').trim();
+        const parsed = JSON.parse(cleanJson) as AuditReport;
+        console.log(`[AceDataCloud] gpt-4o-mini Fallback Audit Complete. Safety Score: ${parsed.auditScore}/100. Trap Status: ${parsed.isTrap ? 'RED' : 'GREEN'}`);
+        return parsed;
+
+      } catch (tier2Error: any) {
+        console.warn(`[AceDataCloud] Tier 2 gpt-4o-mini API Call also failed: ${tier2Error.message}. Falling back to conservative offline emulation.`);
+        return this.getEmulatedAuditReport(opportunity, true);
+      }
     }
   }
 
@@ -223,16 +254,21 @@ export class AceDataCloudService {
   /**
    * Premium mock audit and proposal generation
    */
-  private getEmulatedAuditReport(opportunity: Web3Opportunity): AuditReport {
+  private getEmulatedAuditReport(opportunity: Web3Opportunity, isFallbackError = false): AuditReport {
     const isSpecialBounty = opportunity.title.toLowerCase().includes('oobe') || opportunity.title.toLowerCase().includes('ace');
     
     // Reputational safety analysis matching Karel's criteria
-    const auditScore = isSpecialBounty ? 98 : 88;
+    // Fallback errors get a secure 50/100 score. Special bounties get 98. Other mocks get 70.
+    const auditScore = isFallbackError 
+      ? 50 
+      : (isSpecialBounty ? 98 : 70);
     const isTrap = false;
     
-    const analysis = isSpecialBounty
-      ? `The "${opportunity.title}" opportunity is extremely high quality. Managed by OOBE Labs and Ace Data Cloud, it features a verified 2400 USDC escrow pool. The reputation is flawless. Standard response rates for the maintainer are < 24 hours. Recommended for immediate implementation.`
-      : `The "${opportunity.title}" has been successfully audited. The sponsor "${opportunity.organization}" has a solid track record, clean open-source contributions, and verified on-chain funding. Zero red flags detected. Reputational index is safely above our 80/100 threshold.`;
+    const analysis = isFallbackError
+      ? `[AMBIGUOUS / UNKNOWN RISK] The reputational audit could not be performed online because the API connection failed or timed out. Reputational status could not be verified. Proceed with extreme caution.`
+      : (isSpecialBounty
+        ? `The "${opportunity.title}" opportunity is extremely high quality. Managed by OOBE Labs and Ace Data Cloud, it features a verified 2400 USDC escrow pool. The reputation is flawless. Standard response rates for the maintainer are < 24 hours. Recommended for immediate implementation.`
+        : `The "${opportunity.title}" opportunity is simulated offline. The sponsor "${opportunity.organization}" appears to be an active ecosystem participant, but a real-time live audit could not be established. Real-time on-chain verify is skipped.`);
 
     const proposedPitch = `Dear ${opportunity.organization} Team,
 

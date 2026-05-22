@@ -38,15 +38,18 @@ export class ScraperService {
         for (const item of featuredItems) {
           const event = item.event;
           if (event) {
-            opportunities.push({
-              id: `luma-${event.api_id || event.id || Math.random().toString(36).substr(2, 9)}`,
-              source: 'luma_event',
-              title: event.name || item.title || 'Untitled Event',
-              organization: event.calendar?.name || 'Luma Community',
-              description: event.description_text || event.tagline || 'Web3 Ecosystem Event',
-              url: `https://lu.ma/${event.url_key || event.id}`,
-              date: event.start_at || new Date().toISOString()
-            });
+            const urlKey = event.url_key || event.id;
+            if (urlKey && urlKey !== 'undefined') {
+              opportunities.push({
+                id: `luma-${event.api_id || event.id || Math.random().toString(36).substr(2, 9)}`,
+                source: 'luma_event',
+                title: event.name || item.title || 'Untitled Event',
+                organization: event.calendar?.name || 'Luma Community',
+                description: event.description_text || event.tagline || 'Web3 Ecosystem Event',
+                url: `https://lu.ma/${urlKey}`,
+                date: event.start_at || new Date().toISOString()
+              });
+            }
           }
         }
         console.log(`[Scraper] Successfully extracted ${opportunities.length} events from Luma.`);

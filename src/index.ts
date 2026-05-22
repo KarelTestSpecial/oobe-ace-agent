@@ -34,6 +34,13 @@ async function main() {
   console.log(`\nFound ${opportunities.length} active opportunities to audit.`);
 
   const auditedOpportunities = [];
+  const allAuditResults: Array<{
+    opportunity: any;
+    audit: any;
+    passed: boolean;
+    x402Gateway?: string;
+    bannerPath?: string;
+  }> = [];
 
   // Create reports folder if not exists
   const reportsDir = path.join('/home/kareltestspecial/workspace/oobe_ace_agent', 'reports');
@@ -51,10 +58,19 @@ async function main() {
     if (auditReport.isTrap) {
       console.log(`  ❌ [AUDIT WARN] Threat Detected! Opportunity flagged as high risk.`);
       console.log(`  Reason: ${auditReport.trapDetails}`);
+      allAuditResults.push({
+        opportunity: opp,
+        audit: auditReport,
+        passed: false
+      });
       continue;
     }
 
-    console.log(`  ✅ [AUDIT PASS] Reputational Safety Score: ${auditReport.auditScore}/100`);
+    if (auditReport.auditScore < 70) {
+      console.log(`  ⚠️ [AUDIT CAUTION] Cautious Reputational Safety Score: ${auditReport.auditScore}/100`);
+    } else {
+      console.log(`  ✅ [AUDIT PASS] Reputational Safety Score: ${auditReport.auditScore}/100`);
+    }
 
     // Setup x402 Commerce Escrow
     const x402Gateway = await oobe.setupX402PaymentGateway(opp.id);
@@ -70,6 +86,13 @@ async function main() {
     };
 
     auditedOpportunities.push(result);
+    allAuditResults.push({
+      opportunity: opp,
+      audit: auditReport,
+      passed: true,
+      x402Gateway,
+      bannerPath
+    });
   }
 
   // 6. Generate final beautiful markdown report
@@ -91,8 +114,26 @@ This cycle audited **${opportunities.length}** opportunities. **${auditedOpportu
 
 | Source | Title | Sponsor | Status | Safety | Action |
 | :--- | :--- | :--- | :--- | :---: | :--- |
-| ${opportunities.map(o => `\`${o.source}\` \| **${o.title}** \| ${o.organization} \| \`${o.reward || 'N/A'}\` \| ${o.id.startsWith('mock') ? '🟢 Safe' : '🟢 Safe'} \| [Analyze](#${o.id})`).join('\n')}
+`;
 
+  for (const item of allAuditResults) {
+    const opp = item.opportunity;
+    const audit = item.audit;
+    let safetyLabel = '🟢 Safe';
+    if (!item.passed || audit.isTrap) {
+      safetyLabel = '🔴 Trap / Threat';
+    } else if (audit.auditScore < 70) {
+      safetyLabel = '🟡 Caution';
+    }
+    
+    const actionLabel = item.passed 
+      ? `[Analyze](#${opp.id})` 
+      : `*Skipped (High Risk / Trap)*`;
+      
+    mdContent += `| \`${opp.source}\` | **${opp.title}** | ${opp.organization} | \`${opp.reward || 'N/A'}\` | ${safetyLabel} (${audit.auditScore}/100) | ${actionLabel} |\n`;
+  }
+
+  mdContent += `
 ---
 
 ## 🔍 Detailed Intel & Pitch Generator
@@ -146,8 +187,13 @@ ${audit.twitterThread.map((t, idx) => `${idx + 1}. *"${t}"*`).join('\n')}
   All artifacts have been cleanly persisted to local workspace.
 ================================================================================
   `);
+
+  // Explicitly exit to close persistent Solana WebSocket connection
+  process.exit(0);
 }
 
 main().catch(error => {
   console.error('[AIOS Fatal Error]', error);
+  process.exit(1);
 });
+
