@@ -2,9 +2,9 @@
 
 Generated autonomously by the **Agentic Intel & Outreach Sentinel (AIOS)**.
 - **Agent Address**: `GfFoBMMpixyvqgkCEiMH2yAg5RRpCAeJMYn5HmAzEgkt`
-- **SAP Tx Signature**: `MOCK_tx_sap_reg_302e3434393132333738323034383331`
+- **SAP Tx Signature**: `MOCK_tx_sap_reg_302e3432313436393438363638343135`
 - **SAP Registration Mode**: *Emulated (Offline/Devnet)*
-- **Report Date**: `5/22/2026, 5:34:20 PM`
+- **Report Date**: `5/22/2026, 5:54:07 PM`
 
 ---
 
@@ -79,8 +79,8 @@ Spe...** | @SuperteamUK | `N/A` | 🟢 Safe | [Analyze](#nitter-aHR0cHM6Ly)
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/solana-summit-kazakhstan-startup-battle-live-pitch-competition)
 - **Escrow / Compensation**: `10000 USDG`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-505a3d16-6bd2-45f3-83f1-487ff4e7308c-szgsdib`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_summit_kazakhstan___startup_battle__live_pitch_competition__1779464060281.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-505a3d16-6bd2-45f3-83f1-487ff4e7308c-d6cn52y`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_summit_kazakhstan___startup_battle__live_pitch_competition__1779465219060.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -103,7 +103,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -115,7 +115,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -124,8 +124,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/create-content-about-the-solana-summit-in-germany)
 - **Escrow / Compensation**: `10000 USDG`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-ca7b001d-d4a3-4903-8b69-d2f7246e2a5c-egie7s4`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_create_content_about_the_solana_summit_in_germany_1779464060281.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-ca7b001d-d4a3-4903-8b69-d2f7246e2a5c-vwy6tgt`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_create_content_about_the_solana_summit_in_germany_1779465219635.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -148,7 +148,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -160,7 +160,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -169,8 +169,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/solana-consumer-day-best-consumer-insights-thread)
 - **Escrow / Compensation**: `300 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-5e967209-315f-4aed-92bc-d4594fab30a5-27ajmvm`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_consumer_day___best_consumer_insights_thread_1779464060282.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-5e967209-315f-4aed-92bc-d4594fab30a5-lq0c447`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_consumer_day___best_consumer_insights_thread_1779465220163.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -193,7 +193,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -205,7 +205,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -214,8 +214,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/create-your-own-currency-on-flipcash)
 - **Escrow / Compensation**: `2250 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-2cedd02a-27cc-46c1-b1e7-01c318a21ec6-uykpcio`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_create_your_own_currency_on_flipcash_1779464060282.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-2cedd02a-27cc-46c1-b1e7-01c318a21ec6-n3xyg44`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_create_your_own_currency_on_flipcash_1779465220759.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -238,7 +238,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -250,7 +250,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -259,8 +259,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/write-a-twitter-thread-on-raze)
 - **Escrow / Compensation**: `180 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-e72c3ce3-0787-497a-b121-72685485f428-mfm7ry1`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_a_twitter_thread_on_raze_1779464060282.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-e72c3ce3-0787-497a-b121-72685485f428-veob46o`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_a_twitter_thread_on_raze_1779465221285.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -283,7 +283,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -295,7 +295,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -304,8 +304,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/write-engaging-twitter-thread-on-coinex-earn-for-staking-rewards)
 - **Escrow / Compensation**: `500 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-87217b1a-eaf3-4923-b0c3-9f71febe9681-6yjzxm7`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_engaging_twitter_thread_on_coinex_earn_for_staking_rewards_1779464060283.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-87217b1a-eaf3-4923-b0c3-9f71febe9681-azaxv9h`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_engaging_twitter_thread_on_coinex_earn_for_staking_rewards_1779465221809.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -328,7 +328,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -340,7 +340,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -349,8 +349,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/write-a-twitter-thread-on-kimia-protocol)
 - **Escrow / Compensation**: `110 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-08eeeab8-c37b-434a-a55a-96a6b1498037-bjeytm5`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_a_twitter_thread_on_kimia_protocol_1779464060283.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-08eeeab8-c37b-434a-a55a-96a6b1498037-13j6i4y`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_a_twitter_thread_on_kimia_protocol_1779465222343.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -373,7 +373,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -385,7 +385,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -394,8 +394,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/research-and-organize-influential-solana-twitter-accounts)
 - **Escrow / Compensation**: `500 USDG`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-2dde14a2-8dc7-46ab-aa5b-c115b9059e26-461j0qf`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_research___organize_influential_solana_twitter_accounts_1779464060283.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-2dde14a2-8dc7-46ab-aa5b-c115b9059e26-c54nl79`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_research___organize_influential_solana_twitter_accounts_1779465222937.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -418,7 +418,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -430,7 +430,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -439,8 +439,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/flash-bounty-how-big-is-your-solana-contribution-qrt-campaign)
 - **Escrow / Compensation**: `350 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-48119d7f-83ed-4adf-a05e-399772e2e495-k07i3md`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner__flash_bounty___how_big_is_your_solana_contribution___qrt_campaign_1779464060284.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-48119d7f-83ed-4adf-a05e-399772e2e495-jprf92p`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner__flash_bounty___how_big_is_your_solana_contribution___qrt_campaign_1779465223471.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -463,7 +463,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -475,7 +475,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -484,8 +484,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/write-a-pre-seed-fundraising-guide-for-ukrainian-solana-startups)
 - **Escrow / Compensation**: `1300 USDG`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-875941ec-d077-4b9b-a34e-5798b4206fd6-61288a6`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_a_pre_seed_fundraising_guide_for_ukrainian_solana_startups_1779464060284.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-875941ec-d077-4b9b-a34e-5798b4206fd6-oik4coi`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_write_a_pre_seed_fundraising_guide_for_ukrainian_solana_startups_1779465224001.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -508,7 +508,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -520,7 +520,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -529,8 +529,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/autonomous-agent-bounty-oobe-ace-data-cloud)
 - **Escrow / Compensation**: `2400 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-66842d34-5ed4-474f-9844-dbbcfcad7ad3-7y5l03w`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_autonomous_agent_bounty__oobe___ace_data_cloud_1779464060284.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-66842d34-5ed4-474f-9844-dbbcfcad7ad3-3nr1106`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_autonomous_agent_bounty__oobe___ace_data_cloud_1779465224534.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -553,7 +553,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -565,7 +565,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -574,8 +574,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/stake-dollargmyld-and-play-pumpcatfun-get-paid-up-to-dollar100-for-honest-feedback-1)
 - **Escrow / Compensation**: `2000 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-39043ed9-96aa-4d3a-b800-a338bf3319dd-bdsuvcc`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_stake__gmyld____play_pumpcat_fun___get_paid_up_to__100_for_honest_feedback_1779464060285.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-39043ed9-96aa-4d3a-b800-a338bf3319dd-zomimpt`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_stake__gmyld____play_pumpcat_fun___get_paid_up_to__100_for_honest_feedback_1779465225063.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -598,7 +598,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -610,7 +610,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -619,8 +619,8 @@ Karel Decherf
 - **Source**: `superteam_earn`
 - **Resource Link**: [Original Opportunity Link](https://earn.superteam.fun/listings/bounty/create-content-about-amulets-and-earn-rewards)
 - **Escrow / Compensation**: `2000 USDC`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-e15c6685-027b-4ea5-80d5-1fa6800d9393-3mb5d6p`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_create_content_about_amulets___earn_rewards_1779464060285.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-superteam-e15c6685-027b-4ea5-80d5-1fa6800d9393-ijuh36o`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_create_content_about_amulets___earn_rewards_1779465225658.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -643,7 +643,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Ecosystem.
 
@@ -655,7 +655,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -664,8 +664,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/li.fi/5f0b1f78-25c7-492c-aecf-e80d631623b2)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79832232-9w2loxu`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_applied_ai_engineer_1779464060285.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79832232-f4x656i`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_applied_ai_engineer_1779465226233.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -688,7 +688,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -700,7 +700,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -709,8 +709,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/li.fi/b7273fb8-9e75-43bf-ad2b-8aa6496bf3ca)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79832230-a8mlngu`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_commercial_counsel_1779464060285.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79832230-xneexz8`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_commercial_counsel_1779465226772.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -733,7 +733,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -745,7 +745,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -754,8 +754,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/li.fi/f2424ea0-1b71-4a0a-93d9-55b64a7aae70)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79832227-kqlhufw`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_full_stack_engineer__checkout__1779464060286.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79832227-mqej42d`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_full_stack_engineer__checkout__1779465227298.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -778,7 +778,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -790,7 +790,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -799,8 +799,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://ats.rippling.com/perle/jobs/52a3f5ca-3d2e-41ef-b407-9fdd16015f2c)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79811600-7lfno8k`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_egocentric_video_data_contributor_1779464060286.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79811600-g1hlza0`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_egocentric_video_data_contributor_1779465227937.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -823,7 +823,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -835,7 +835,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -844,8 +844,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://boards.greenhouse.io/exodus54/jobs/4683647006)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79809152-b5msv0z`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_general_application_1779464060287.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79809152-hiexmra`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_general_application_1779465228466.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -868,7 +868,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -880,7 +880,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -889,8 +889,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://careers.r3.com/jobs/7760915-corporate-counsel)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79691275-l7gmym3`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_corporate_counsel_legal_and_compliance___r3_london__r3_remote___hybrid_1779464060287.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79691275-lvnz2iu`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_corporate_counsel_legal_and_compliance___r3_london__r3_remote___hybrid_1779465228991.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -913,7 +913,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -925,7 +925,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -934,8 +934,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/dourolabs.xyz/cd45ea39-9a01-47fc-9b43-a714e383ceb3)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79668751-enazikg`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_quantitative_researcher_1779464060287.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79668751-g7cytvl`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_quantitative_researcher_1779465229514.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -958,7 +958,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -970,7 +970,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -979,8 +979,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://www.molecule.xyz/careers?ashby_jid=e87bfa67-10e2-4d58-97bc-89b5a5d91c2c)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79630754-qev2k2p`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_ai_scientist___entrepreneur_in_residence_1779464060288.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79630754-rejahax`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_ai_scientist___entrepreneur_in_residence_1779465230040.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1003,7 +1003,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1015,7 +1015,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1024,8 +1024,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.solana.com/companies/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717/jobs/79611875-product-marketing-associate)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79611875-jbm7vgx`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_product_marketing_associate_1779464060288.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79611875-45h9flb`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_product_marketing_associate_1779465230595.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1048,7 +1048,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1060,7 +1060,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1069,8 +1069,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://nousresearch.com/forward-deployed-engineer/)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79535426-ztgal76`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_full_timeforward_deployed_engineer_1779464060289.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79535426-ud5gapc`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_full_timeforward_deployed_engineer_1779465231161.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1093,7 +1093,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1105,7 +1105,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1114,8 +1114,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/Blockworks/69cb5195-7ffa-49bd-97d6-60862a5156b8)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79517054-uo5iwp3`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_people___talent_partner_1779464060289.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79517054-r43st55`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_people___talent_partner_1779465231686.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1138,7 +1138,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1150,7 +1150,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1159,8 +1159,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://boards.greenhouse.io/fireblocks/jobs/4682159006)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79512152-3kgrtwe`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_backend_engineer___finapps_access_1779464060289.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79512152-xb75p6s`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_backend_engineer___finapps_access_1779465232235.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1183,7 +1183,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1195,7 +1195,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1204,8 +1204,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://boards.greenhouse.io/fireblocks/jobs/4682157006)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79512156-c7416gn`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_qa_automation_engineer__financial_apps__1779464060290.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79512156-h6nkrtg`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_qa_automation_engineer__financial_apps__1779465232767.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1228,7 +1228,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1240,7 +1240,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1249,8 +1249,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/Solana%20Foundation/29affe58-f30e-43f3-b74a-2e2b6346645c)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79465142-9ak6nbb`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_legal_operations_lead_1779464060290.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79465142-qsrzvh7`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_legal_operations_lead_1779465233290.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1273,7 +1273,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1285,7 +1285,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1294,8 +1294,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://crossmint.na.teamtailor.com/jobs/606410-senior-full-stack-engineer-nyc)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79351129-2rd21ol`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_full_stack_engineer__nyc__1779464060291.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79351129-j1w8ugq`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_full_stack_engineer__nyc__1779465233816.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1318,7 +1318,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1330,7 +1330,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1339,8 +1339,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/solanalabs/bf8c6a28-c0c4-4877-9368-66cb34ceff3a)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79286833-lbx68wk`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_backend_engineer___solana_mobile_1779464060293.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79286833-uedov2m`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_backend_engineer___solana_mobile_1779465234355.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1363,7 +1363,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1375,7 +1375,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1384,8 +1384,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://boards.greenhouse.io/fireblocks/jobs/4681268006)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79285838-e5vxaht`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_security_operations_tech_lead_1779464060293.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79285838-nbhlasy`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_security_operations_tech_lead_1779465234877.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1408,7 +1408,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1420,7 +1420,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1429,8 +1429,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/dourolabs.xyz/a9a582f2-8343-407d-9e59-29496f0dd505)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79262341-0w3yxew`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_data_systems_operations_lead_1779464060294.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79262341-n1ofjdq`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_data_systems_operations_lead_1779465235413.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1453,7 +1453,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1465,7 +1465,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1474,8 +1474,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.ashbyhq.com/Solana%20Foundation/173cd3e1-7284-41b7-b270-6ac92f652f98)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79247875-bg52vmp`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_data_engineer_1779464060295.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79247875-0fy6x20`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_senior_data_engineer_1779465235944.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1498,7 +1498,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1510,7 +1510,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1519,8 +1519,8 @@ Karel Decherf
 - **Source**: `solana_jobs`
 - **Resource Link**: [Original Opportunity Link](https://jobs.solana.com/companies/fireblocks/jobs/79147098-solana-blockchain-engineer)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79147098-s2t08id`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_blockchain_engineer_1779464060295.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-solanajobs-79147098-3p0k6f5`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_blockchain_engineer_1779465236476.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1543,7 +1543,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Solana Startup.
 
@@ -1555,7 +1555,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1564,8 +1564,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-xWmahxkHwbtWt4d-er6amr1`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___exeter_chapter_1779464060296.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-xWmahxkHwbtWt4d-84uea8o`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___exeter_chapter_1779465237011.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1588,7 +1588,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1600,7 +1600,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1609,8 +1609,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-x5LHYfocLWudOQO-o65ojda`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_talent_hub_friday_s___dogpatch___blockchain_x_quantum__hackathon_1779464060296.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-x5LHYfocLWudOQO-0srrvw8`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_talent_hub_friday_s___dogpatch___blockchain_x_quantum__hackathon_1779465237537.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1633,7 +1633,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1645,7 +1645,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1654,8 +1654,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-VB1oVWbRRsjFpNX-be67vib`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___birmingham_chapter_1779464060296.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-VB1oVWbRRsjFpNX-y8xrzef`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___birmingham_chapter_1779465238119.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1678,7 +1678,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1690,7 +1690,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1699,8 +1699,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-yGtQBsbLRqHGcEO-pzxmbz8`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___oxford_chapter_1779464060296.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-yGtQBsbLRqHGcEO-6irpxt3`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___oxford_chapter_1779465238642.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1723,7 +1723,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1735,7 +1735,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1744,8 +1744,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-tImz3E2O4bXtqSj-hyxr5x3`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___london_chapter_1779464060297.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-tImz3E2O4bXtqSj-5xqmmfg`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_co_working_fridays___london_chapter_1779465239164.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1768,7 +1768,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1780,7 +1780,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1789,8 +1789,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-Db3hIReNEbwdK7F-qubwt3p`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_adamawa_bitcoin_pizza_day_1779464060297.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-Db3hIReNEbwdK7F-2p0n159`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_adamawa_bitcoin_pizza_day_1779465239692.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1813,7 +1813,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1825,7 +1825,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1834,8 +1834,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-9ZZZWZcMP7teYqr-n8t1nuw`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_toronto_solana_vibestation_1779464060297.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-9ZZZWZcMP7teYqr-9i9vlvv`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_toronto_solana_vibestation_1779465240217.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1858,7 +1858,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1870,7 +1870,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1879,8 +1879,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-JmkRb8zgFzsRYkH-ngae9oh`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_montreal_vibestation_1779464060298.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-JmkRb8zgFzsRYkH-dg593np`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_montreal_vibestation_1779465240761.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1903,7 +1903,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1915,7 +1915,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1924,8 +1924,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-0bGPvWCRmbFrva2-mk4r8t2`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_pizza__proof___people___bitcoin_pizza_day_ibadan__1779464060298.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-0bGPvWCRmbFrva2-fkqbq5q`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_pizza__proof___people___bitcoin_pizza_day_ibadan__1779465241290.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1948,7 +1948,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -1960,7 +1960,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -1969,8 +1969,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-w8NLGe3f4XaSK3O-4wk1wn6`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_pizza_day_1779464060298.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-w8NLGe3f4XaSK3O-av5buki`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_pizza_day_1779465241819.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -1993,7 +1993,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2005,7 +2005,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2014,8 +2014,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-k04WSsWhSEnBFsB-1jkpcbm`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_bitcoin_pizza_day_by_superteam_ng_edo_1779464060298.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-k04WSsWhSEnBFsB-s6t75um`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_bitcoin_pizza_day_by_superteam_ng_edo_1779465242374.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2038,7 +2038,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2050,7 +2050,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2059,8 +2059,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-TXmSWEtFwZhOHgZ-9gyn2t3`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_bitcoin_pizza_day_1779464060299.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-TXmSWEtFwZhOHgZ-0oafemq`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_bitcoin_pizza_day_1779465242978.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2083,7 +2083,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2095,7 +2095,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2104,8 +2104,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-QYMTE8kl5aWuqWu-n3kpx8s`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_vancouver_vibestation_1779464060299.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-QYMTE8kl5aWuqWu-lxssc2z`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_vancouver_vibestation_1779465243526.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2128,7 +2128,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2140,7 +2140,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2149,8 +2149,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-mIUQCXlmq4yI11x-9y1hvw0`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner___blockchain_x_quantum___hackathon_1779464060299.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-mIUQCXlmq4yI11x-awmka39`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner___blockchain_x_quantum___hackathon_1779465244064.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2173,7 +2173,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2185,7 +2185,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2194,8 +2194,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-lpWFswNAvootkH3-kpipu44`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_run_club____5k_running___coffee_1779464060299.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-lpWFswNAvootkH3-6bmxxwr`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_run_club____5k_running___coffee_1779465244592.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2218,7 +2218,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2230,7 +2230,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2239,8 +2239,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-kApYzdACX4cetz1-4y242dw`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_network_state__spring_2026__demo_day_presented_by_appworks_and_jelawang_capital_1779464060300.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-kApYzdACX4cetz1-wl3t9mo`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_network_state__spring_2026__demo_day_presented_by_appworks_and_jelawang_capital_1779465245147.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2263,7 +2263,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2275,7 +2275,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2284,8 +2284,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-ZjJ2U0eVQTNaVia-0urobgb`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_cadc_reception____building_canada_s_stablecoin_1779464060300.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-ZjJ2U0eVQTNaVia-prbreaf`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_cadc_reception____building_canada_s_stablecoin_1779465245695.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2308,7 +2308,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2320,7 +2320,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2329,8 +2329,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-XFZuOii4GSjNARh-8oapww6`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_student_day_waterloo_1779464060300.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-XFZuOii4GSjNARh-k6i5bqg`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_solana_student_day_waterloo_1779465246744.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2353,7 +2353,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2365,7 +2365,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2374,8 +2374,8 @@ Karel Decherf
 - **Source**: `luma_event`
 - **Resource Link**: [Original Opportunity Link](https://lu.ma/undefined)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-GO1wZSoMb0c2b2H-sv97avv`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_where_crypto_is_headed_next__founder___exec_panel__presented_by_uniblock___superteam_canada__1779464060300.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-luma-evt-GO1wZSoMb0c2b2H-lb9igvi`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_where_crypto_is_headed_next__founder___exec_panel__presented_by_uniblock___superteam_canada__1779465247280.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2398,7 +2398,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to Luma Community.
 
@@ -2410,7 +2410,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
@@ -2421,8 +2421,8 @@ Spe... (@SuperteamUK)
 - **Source**: `twitter_timeline`
 - **Resource Link**: [Original Opportunity Link](https://nitter.net/solana_devs/status/2057171612135309456#m)
 - **Escrow / Compensation**: `N/A`
-- **Synapse x402 Commerce Gateway**: `x402-gateway-active-nitter-aHR0cHM6Ly-huz664k`
-- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_rt_by__superteamuk__new__solana_summer_school__spe____1779464060301.svg`
+- **Synapse x402 Commerce Gateway**: `x402-gateway-active-nitter-aHR0cHM6Ly-23dq064`
+- **Flux Generated Marketing Banner**: `/home/kareltestspecial/workspace/oobe_ace_agent/assets/banner_rt_by__superteamuk__new__solana_summer_school__spe____1779465247901.svg`
 
 #### 🛡️ Reputation Safety Audit
 > [!NOTE]
@@ -2449,7 +2449,7 @@ Why my background fits perfectly:
 
 I have built "The Agentic Intel & Outreach Sentinel" (AIOS) specifically to showcase my capabilities. AIOS runs autonomously, evaluates on-chain opportunities in real time, handles decentralized registrations, and secures escrow gateways.
 
-You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/0xk2/oobe-ace-agent.
+You can inspect the fully functional source code and architectural walkthrough at my repository: https://github.com/KarelTestSpecial/oobe-ace-agent.
 
 I look forward to discussing how I can deliver exceptional value to @SuperteamUK.
 
@@ -2461,7 +2461,7 @@ Karel Decherf
 1. *"1/ 🤖 Introducing the Agentic Intel & Outreach Sentinel (AIOS)! An autonomous Solana-native AI agent designed to discover, audit, and secure high-value Web3 freelance opportunities in real-time. Built for the @OOBEProtocol × @AceDataCloud bounty."*
 2. *"2/ 🛡️ Powered by a multi-layered scraper pipeline extracting live data from Superteam Earn, Solana Jobs, and Luma. Highly resilient with rotating RSS/Nitter fallbacks to guarantee 100% uptime."*
 3. *"3/ 🧠 Utilizing @AceDataCloud DeepSeek-R1 models for real-time reputational auditing and Proof of Work proposal generation. We filter traps, prompt leaks, and ghost bounties automatically!"*
-4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/0xk2/oobe-ace-agent"*
+4. *"4/ 🔗 Fully registered on-chain via the Synapse Agent Protocol (SAP) and integrated with the x402 commerce protocol for machine-to-machine payment settlement. Check the source: https://github.com/KarelTestSpecial/oobe-ace-agent"*
 
 ---
 
